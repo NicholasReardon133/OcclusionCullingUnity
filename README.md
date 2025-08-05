@@ -2,7 +2,7 @@ Custom Occlusion Culling in Unity
 📖 Overview
 This project is an implementation of a custom occlusion culling system within the Unity game engine. The goal is to provide a more flexible and granular approach to camera-based culling than Unity's built-in solution. By leveraging raycasting and custom-modeled occluder meshes, this system determines object visibility, optimizing rendering performance by disabling the renderers of objects that are hidden from the camera's view.
 
-This is particularly useful in scenes with complex, dense geometry where manually defining occlusion areas can be tedious or inefficient.
+This is particularly useful in scenes with complex, dense geometry where manually defining occlusion areas can be tedious or inefficient. Due to Github file size restriction, I could not push with the models or assets, but the rest of the code base is present in the folder.
 
 🛠️ Tools & Technologies
 Game Engine: Unity
